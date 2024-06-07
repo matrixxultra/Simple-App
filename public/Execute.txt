@@ -1,0 +1,12 @@
+pour executer ce programme
+creer un projet sur Firebase
+copier la configuration de firebase et coller dans fichier firebase.js
+respecter les Noms de collection :
+ - collection 1 : Equipments
+ - collection 2 : Checkpoints
+respecter les noms des champs des collections les champs que j'ai deja ecrire dans App.jsx et Detail.jsx
+
+
+Libraries : React / React-router-dom / firebase /ReduxToolkit / bootstrap
+
+Bon Courage !!!
